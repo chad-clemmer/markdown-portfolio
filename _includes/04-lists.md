@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Video Games
+2. Guns
+3. Learning
+   1. School
+   2. Self educate
